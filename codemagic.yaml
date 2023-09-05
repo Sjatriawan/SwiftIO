@@ -1,4 +1,4 @@
 workflows:
-  my-workflow:
+  switio-workflow:
     instance_type: mac_pro
 
